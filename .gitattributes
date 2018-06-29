@@ -1,6 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
+*.java linguist-language=Java
 *.pl linguist-language=Prolog
 *.class linguist-language=Java
 
